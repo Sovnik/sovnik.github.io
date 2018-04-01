@@ -1,0 +1,35 @@
+body
+{
+	background-color: #32302f;
+	color: #d5c4a1;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:link, a:visited {
+	color: #8ec07c;
+}
+
+a:active, a:hover {
+	color: #689d6a;	
+}
+
+
+.header
+{
+	text-align: center;
+}
+
+.menu
+{
+	border: solid 1px;
+	text-align: center;
+	display: inline;
+}
+
+.menu a
+{
+	padding: 10px;
+}
