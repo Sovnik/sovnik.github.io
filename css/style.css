@@ -24,12 +24,13 @@ a:active, a:hover {
 
 .menu
 {
+	display: inline-block;
 	border: solid 1px;
 	text-align: center;
-	display: inline;
+	padding: 5px 0px 5px 0px;
 }
 
 .menu a
 {
-	padding: 10px;
+	padding: 5px 10px 5px 10px;
 }
